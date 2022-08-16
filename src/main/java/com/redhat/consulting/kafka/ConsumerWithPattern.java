@@ -9,7 +9,7 @@ import org.apache.kafka.clients.consumer.ConsumerRecords;
 import org.apache.kafka.clients.consumer.KafkaConsumer;
 
 
-public class Consumer {
+public class ConsumerWithPattern {
 		
 	public static void main(String args[]) {
 		
